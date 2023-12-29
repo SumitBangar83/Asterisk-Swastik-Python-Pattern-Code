@@ -1,1 +1,1 @@
-# This is my local Repo
+# Swastik & Asterisk Symbol || User Input Based Pattern
