@@ -37,9 +37,10 @@ try:
                         print(" ")
                     else:
                         print(" ",end=" ")
-        j=int(input("for exit type 0 : "))
+        j=int(input("To continue again (entre 1) otherwise 0 to exit : "))
         if j==0:
             print("program finished")
             break                         
 except:
     print("\n","invalid syntax")
+    print("\n","process terminated")
